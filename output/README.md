@@ -1,6 +1,6 @@
 # Samsung TV Plus for TiviMate
 
-Generated on: 2026-11-05 04:11:26 UTC
+Generated on: 2026-11-05 23:56:12 UTC
 
 ## Files
 
@@ -22,7 +22,7 @@ Generated on: 2026-11-05 04:11:26 UTC
 ## Configuration
 
 This playlist was generated with the following settings:
-- Regions: all
+- Regions: us,uk,ca
 - Groups: All
 - Include DRM: True
 - Starting Channel Number: 1
