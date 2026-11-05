@@ -33,7 +33,7 @@ jobs:
       run: python generate_samsung_tvplus.py
       env:
         # Configuration via environment variables
-        REGIONS: 'all'  # Change to specific regions like 'us,uk,ca' if needed
+        REGIONS: 'us,uk,ca'  # Change to specific regions like 'us,uk,ca' if needed
         GROUPS: ''      # Leave empty for all groups, or specify like 'News,Sports'
         INCLUDE_DRM: 'true'
         START_CHNO: '1'
