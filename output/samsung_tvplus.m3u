@@ -67,7 +67,7 @@ https://jmp2.uk/stvp-CA4600007UE
 https://jmp2.uk/stvp-USBD700003L7
 #EXTINF:-1 tvg-id="CA46000149D" tvg-name="CBC News Ottawa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000149D_20250915T233811SQUARE.png" group-title="News & Opinion" tvg-chno="1130",CBC News Ottawa
 https://jmp2.uk/stvp-CA46000149D
-#EXTINF:-1 tvg-id="CA4600002Z5" tvg-name="CBC News PEI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600002Z5_20260505T062313SQUARE.png" group-title="News & Opinion" tvg-chno="1131",CBC News PEI
+#EXTINF:-1 tvg-id="CA4600002Z5" tvg-name="CBC News PEI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600002Z5_20261117T052619SQUARE.png" group-title="News & Opinion" tvg-chno="1131",CBC News PEI
 https://jmp2.uk/stvp-CA4600002Z5
 #EXTINF:-1 tvg-id="CA4600005WZ" tvg-name="CBC News Quebec" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600005WZ_20250401T004735SQUARE.png" group-title="News & Opinion" tvg-chno="1132",CBC News Quebec
 https://jmp2.uk/stvp-CA4600005WZ
@@ -75,11 +75,11 @@ https://jmp2.uk/stvp-CA4600005WZ
 https://jmp2.uk/stvp-US50000551O
 #EXTINF:-1 tvg-id="CA46000116C" tvg-name="CBC News Saskatchewan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000116C_20260310T031450SQUARE.png" group-title="News & Opinion" tvg-chno="1133",CBC News Saskatchewan
 https://jmp2.uk/stvp-CA46000116C
-#EXTINF:-1 tvg-id="CA1500002Q4" tvg-name="CBC News Toronto" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20260622T060221SQUARE.png" group-title="News & Opinion" tvg-chno="1134",CBC News Toronto
+#EXTINF:-1 tvg-id="CA1500002Q4" tvg-name="CBC News Toronto" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20261117T052614SQUARE.png" group-title="News & Opinion" tvg-chno="1134",CBC News Toronto
 https://jmp2.uk/stvp-CA1500002Q4
 #EXTINF:-1 tvg-id="USBC3200001S5" tvg-name="WN Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WN Charlotte
 https://jmp2.uk/stvp-USBC3200001S5
-#EXTINF:-1 tvg-id="CA4600015MG" tvg-name="CBC News Windsor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600015MG_20250401T004741SQUARE.png" group-title="News & Opinion" tvg-chno="1135",CBC News Windsor
+#EXTINF:-1 tvg-id="CA4600015MG" tvg-name="CBC News Windsor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600015MG_20261117T052623SQUARE.png" group-title="News & Opinion" tvg-chno="1135",CBC News Windsor
 https://jmp2.uk/stvp-CA4600015MG
 #EXTINF:-1 tvg-id="CABC23000223U" tvg-name="The Weather Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20260421T141242SQUARE.png" group-title="News & Opinion" tvg-chno="1138",The Weather Network
 https://jmp2.uk/stvp-CABC23000223U
@@ -317,7 +317,7 @@ https://jmp2.uk/stvp-CA1700004QS
 https://jmp2.uk/stvp-US2000012KX
 #EXTINF:-1 tvg-id="CA2000007YG" tvg-name="Genie K-Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000007YG_20260819T010738SQUARE.png" group-title="Entertainment" tvg-chno="1614",Genie K-Drama
 https://jmp2.uk/stvp-CA2000007YG
-#EXTINF:-1 tvg-id="USAJ22000130U" tvg-name="MHz Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20260609T214511SQUARE.png" group-title="Action & Drama" tvg-chno="1615",MHz Mysteries
+#EXTINF:-1 tvg-id="USAJ22000130U" tvg-name="MHz Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20261117T052540SQUARE.png" group-title="Action & Drama" tvg-chno="1615",MHz Mysteries
 https://jmp2.uk/stvp-USAJ22000130U
 #EXTINF:-1 tvg-id="CAAJ34000158F" tvg-name="MHz Now" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000158F_20260421T140108SQUARE.png" group-title="Entertainment" tvg-chno="1615",MHz Now
 https://jmp2.uk/stvp-CAAJ34000158F
@@ -1149,6 +1149,8 @@ https://jmp2.uk/stvp-CA800004UD
 https://jmp2.uk/stvp-USBD1200004NS
 #EXTINF:-1 tvg-id="US1900002QK" tvg-name="Universal Monsters [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20260421T142339SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3020" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Universal Monsters [DRM]
 https://jmp2.uk/stvp-US1900002QK
+#EXTINF:-1 tvg-id="US39000221B" tvg-name="Tales from the Crypt" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000221B_20261117T052553SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3023",Tales from the Crypt
+https://jmp2.uk/stvp-US39000221B
 #EXTINF:-1 tvg-id="US1800014CG" tvg-name="Alfred Hitchcock Presents [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3025" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Alfred Hitchcock Presents [DRM]
 https://jmp2.uk/stvp-US1800014CG
 #EXTINF:-1 tvg-id="USBD1200007FE" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3030",OuterSphere
@@ -1323,6 +1325,8 @@ https://jmp2.uk/stvp-US39000177S
 https://jmp2.uk/stvp-USBC3600013PC
 #EXTINF:-1 tvg-id="US4100025G5" tvg-name="Peppa Pig & Friends [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100025G5_20260421T141728SQUARE.png" group-title="Kids" tvg-chno="3615" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Peppa Pig & Friends [DRM]
 https://jmp2.uk/stvp-US4100025G5
+#EXTINF:-1 tvg-id="US3600009PP" tvg-name="Sesame Street" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600009PP_20261117T052547SQUARE.png" group-title="Kids" tvg-chno="3616",Sesame Street
+https://jmp2.uk/stvp-US3600009PP
 #EXTINF:-1 tvg-id="US17000208H" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US17000208H_20260915T035035SQUARE.png" group-title="Kids" tvg-chno="3618",BABY SHARK TV
 https://jmp2.uk/stvp-US17000208H
 #EXTINF:-1 tvg-id="US9000032J" tvg-name="Blippi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20260414T005522SQUARE.png" group-title="Kids" tvg-chno="3619",Blippi
